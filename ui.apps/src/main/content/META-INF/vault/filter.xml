@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/ilumya/clientlibs"/>
+    <filter root="/apps/ilumya/components"/>
+    <filter root="/apps/ilumya/i18n"/>
+</workspaceFilter>
